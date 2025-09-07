@@ -1,0 +1,200 @@
+# 🚀 What is DevOps?
+
+Before diving into the definition of DevOps, let’s go back to the basics and understand how the **Software Development Life Cycle (SDLC)** evolved over time.
+
+---
+
+## 📌 Software Development Life Cycle (SDLC)
+
+Every business that builds software follows some basic steps to deliver a working product. But since customers usually don’t understand technical terms, we need a **Business Analyst (BA)** — someone who acts as a bridge between the customer and the developers.
+
+The Business Analyst helps gather business needs and converts them into understandable tasks for the tech team.
+
+### 🔁 SDLC Key Stages:
+
+1. Requirements gathering  
+2. Planning and designing  
+3. Implementation (coding)  
+4. Deployment  
+5. Testing  
+6. Release to the public  
+7. Maintenance after go-live  
+
+---
+
+## 💧 Waterfall Model
+
+Let’s use a **school analogy** to make it simple.
+
+### 🏫 School Analogy
+
+Imagine a traditional school system. The stakeholders are:
+
+> Teachers, Students, Parents, Principal, Investors, Management, and the Government.
+
+In the old days, schools used to have just one **final exam every year**. Because of that:
+
+- Students wouldn’t study until the exam was near  
+- Teachers delayed completing the syllabus  
+- Parents worried about performance from Day 1  
+
+🎯 **Result**: Very low pass percentage — only about **30% students passed**, and **70% failed**, repeating the same class next year.
+
+As a result, schools started worrying about their reputation, performance, and students leaving. They introduced a better model...
+
+---
+
+## 🔁 Agile Model
+
+Schools began **monthly tests**, **quarterly exams**, **semi-finals**, and **finals**.
+
+✅ Students started preparing regularly  
+✅ Teachers completed the syllabus on time  
+✅ Performance pressure helped students stay focused  
+
+### 📈 Progress Chart:
+
+- First month: Pass percentage = 35%  
+- Second month: Increased to 45%  
+- End of year: Reached around 70%  
+
+This model ensured **consistent progress** and **measurable improvement**.
+
+---
+
+## ⚡ DevOps Model
+
+Then schools went even further...
+
+They introduced **daily assessments**, **weekly tests**, **monthly reviews**, and **final exams**.
+
+🎯 **The result?**  
+Massive improvement — **95%+ pass percentage** 🎉
+
+---
+
+## 🧑‍💻 Now Let’s Apply the Same to Software Industry
+
+---
+
+### 💧 Waterfall Model (in Software)
+
+In the early days, software teams followed the **Waterfall model**.
+
+- Client gives full requirements upfront and a **1-year deadline**
+- Developers think: _“We have time”_ and delay coding
+- After 6 months, they start writing code
+- Development takes 3 months
+- Testing team gets the code with only 2 months left
+- They find 10 defects
+- Developer says: _“I wrote this 3 months ago! I forgot the logic!”_
+
+😡 Blame game begins:
+
+- Developers blame testers  
+- Testers blame developers  
+
+💥 **Client expected a Ferrari, but got an Alto 800.**
+
+Clearly, something had to change...
+
+---
+
+## 🔁 Agile Model (in Software)
+
+Companies started caring more about clients and adopted **Agile**, using **sprints**.
+
+### 🧩 Example Modules:
+
+- Signup & Login  
+- Product Management  
+- Order Management  
+- Shipping  
+- Payments  
+- Reviews  
+
+### 🚀 Sprint-1: (2 weeks to 1 month)
+
+- Client: “I need the **Signup & Login** module this month.”
+- Developer takes 15 days to code it
+- During that time, testers wait (idle)
+- Once ready, code goes to testers
+- Testers take a week → Find 2 bugs
+- Developer fixes them
+
+✅ Module is ready by month-end.
+
+🔄 If the client suggests changes, they go to the **Sprint-2 backlog** — along with the next module (e.g., Product Management).
+
+📌 **Client expected a Ferrari, got a Honda City** — decent and delivered.
+
+---
+
+## ⚡ DevOps Model (Modern Need)
+
+With cheaper internet and massive user growth, **traffic increased**. Apps and websites started to struggle:
+
+- Server crashes  
+- Delayed releases  
+- Poor performance  
+
+That's when **DevOps** stepped in to solve **real-world** problems.
+
+---
+
+## 💡 So... What is DevOps?
+
+> **DevOps** is the process of **developing, building, deploying, and testing on the same day** — which improves coordination between development and operations teams.  
+>  
+> We use multiple tools in the DevOps process to achieve this — for example:  
+> **Configuration Management**, **CI/CD pipelines**, **Monitoring**, and **Automation**.
+
+---
+
+## 🔄 Daily DevOps Cycle
+
+1. Developer writes code today  
+2. Code is **immediately** sent to testing  
+3. Testing is done **same day**  
+4. Bugs are fixed quickly  
+5. Code is deployed to **DEV/Staging**  
+6. If all good → deployed to **production**
+
+### 📅 Example – Day 1 Task:
+
+> **Feature**: Signup Form  
+> **Fields**: First Name, Last Name  
+>  
+> Testing team finds **2 defects**  
+> - 1 valid  
+> - 1 invalid  
+>  
+> Developer fixes the valid one ✅  
+> Code is deployed the **same day**
+
+---
+
+## 🛠️ DevOps Helps You:
+
+- Deliver updates **faster**
+- Reduce **errors and bugs**
+- **Scale** effortlessly
+- **Break silos** between teams
+- **Improve customer satisfaction**
+
+---
+
+## 🙌 Summary Table
+
+| Model      | Feedback Cycle      | Delivery Speed | Team Coordination | Output Quality |
+|------------|----------------------|----------------|-------------------|----------------|
+| Waterfall  | At the end           | Slow           | Poor              | Low            |
+| Agile      | Sprint-based         | Moderate       | Moderate          | Good           |
+| DevOps     | Daily & Continuous   | Fast           | Excellent         | High           |
+
+---
+
+## 🚀 Up Next:
+
+**Day 2**:  
+**Stay tuned!**
